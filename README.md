@@ -1,11 +1,11 @@
 # Hi, I'm Khor Jie Shen 👋 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorjshen/)
 
-🎓 Year 3 Computer Science student at **Universiti Tunku Abdul Rahman (UTAR)**, Faculty of Information and Communication Technology (FICT)
-📍 Pulau Pinang, Malaysia
-🌱 Passionate about **AI-powered products** and full-stack web development
-🏆 UTAR Top Achiever Scholarship (50%) recipient 
-🏢 Vice Secretary of UTAR Blockchain Club 25/26 committee
+🎓 Year 3 Computer Science student at **Universiti Tunku Abdul Rahman (UTAR)**, Faculty of Information and Communication Technology (FICT) <br>
+📍 Pulau Pinang, Malaysia <br>
+🌱 Passionate about **AI-powered products** and full-stack web development <br>
+🏆 UTAR Top Achiever Scholarship (50%) recipient <br>
+🏢 Vice Secretary of UTAR Blockchain Club 25/26 committee 
 
 ---
 
