@@ -1,9 +1,11 @@
-# Hi, I'm Khor Jie Shen 👋
+# Hi, I'm Khor Jie Shen 👋 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorjshen/)
 
 🎓 Year 3 Computer Science student at **Universiti Tunku Abdul Rahman (UTAR)**, Faculty of Information and Communication Technology (FICT)
 📍 Pulau Pinang, Malaysia
 🌱 Passionate about **AI-powered products** and full-stack web development
-🏆 UTAR Top Achiever Scholarship (50%) recipient
+🏆 UTAR Top Achiever Scholarship (50%) recipient 
+🏢 Vice Secretary of UTAR Blockchain Club 25/26 committee
 
 ---
 
@@ -58,10 +60,5 @@ A website collection of street food from around the world.
 
 ## 🌐 Languages
 🇨🇳 Chinese (Proficient) · 🇬🇧 English (Independent) · 🇲🇾 Malay (Independent)
-
----
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorjshen/)
 
 *Currently seeking an internship (Oct 2026 – Jan 2027) to apply my skills in AI-driven product development!*
