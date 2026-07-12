@@ -62,7 +62,6 @@ A website collection of street food from around the world.
 ---
 
 ## 📫 Let's Connect
-📧 khorjshen@1utar.my
-💻 [github.com/JS-2005](https://github.com/JS-2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorjshen/)
 
 *Currently seeking an internship (Oct 2026 – Jan 2027) to apply my skills in AI-driven product development!*
