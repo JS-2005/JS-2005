@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-I'm passionate about designing and developing innovative AI solutions. With a strong foundation in systems administration, automated scripting, and structured problem-solving, I thrive at the intersection of emerging technology and real-world efficiency. I enjoy building projects that connect large language models with practical, everyday problems — from career matching to household energy management.
+I'm passionate about designing and developing innovative AI solutions. I enjoy building projects that connect large language models with practical, everyday problems. 
 
-I've participated in several hackathons, where I've built AI-driven products end-to-end: from data pipelines and RAG workflows to polished front-end dashboards.
+I've participated in several hackathons, where I've built AI-driven products.
 
 ---
 
